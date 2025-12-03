@@ -3,8 +3,9 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: bangumi
+  icon: "fa-solid fa-tv"
+  url: "https://bgm.tv/user/876219"
 
 - type: email
   icon: "fas fa-envelope"
