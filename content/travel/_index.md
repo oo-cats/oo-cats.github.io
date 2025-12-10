@@ -1,7 +1,7 @@
 +++
-title = "旅途"
+title = "悠哉游哉"
 
-description = ""
+description = "只学习不玩耍，聪明杰克也变傻"
 
 # A draft section is only loaded if the `--drafts` flag is passed to `zola build`, `zola serve` or `zola check`.
 draft = false
@@ -21,7 +21,7 @@ weight = 0
 # will always use the closest to itself.
 # However, a page's own `template` variable will always have priority.
 # Not set by default.
-page_template =
+# page_template =
 
 # This sets the number of pages to be displayed per paginated page.
 # No pagination will happen if this isn't set or if the value is 0.
@@ -53,7 +53,7 @@ render = true
 # Useful for the same reason as `render` but when you don't want a 404 when
 # landing on the root section page.
 # Example: redirect_to = "documentation/content/overview"
-redirect_to =
+# redirect_to =
 
 # If set to "true", the section will pass its pages on to the parent section. Defaults to `false`.
 # Useful when the section shouldn't split up the parent section, like
@@ -62,7 +62,7 @@ transparent = false
 
 # Use aliases if you are moving content but want to redirect previous URLs to the
 # current one. This takes an array of paths, not URLs.
-aliases = []
+# aliases = []
 
 # If set to "true", feed files will be generated for this section at the
 # section's root path. This is independent of the site-wide variable of the same
@@ -73,3 +73,4 @@ generate_feeds = false
 # Your own data.
 [extra]
 +++
+
