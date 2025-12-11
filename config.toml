@@ -1,9 +1,10 @@
 # The URL the site will be built for
+title = "jdd test"
+
 base_url = "https://oo-cats.github.io"
 theme = "terminimal"
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
-
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
@@ -18,7 +19,7 @@ highlight_code = false
 
 [extra]
 # Put all your custom variables here
-logo_text = "jdd个人见闻沉思录"
+logo_text = "(*)的个人见闻沉思录"
 author = "tzxl"
 default_language = "zh"
 use_full_hack_font = true
@@ -39,3 +40,4 @@ menu_items = [
     {name = "bangumi", url = "https://bgm.tv/user/876219", newtab = true},
 ]
 
+page_titles = "combined"
