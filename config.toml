@@ -19,7 +19,7 @@ highlight_code = false
 
 [extra]
 # Put all your custom variables here
-logo_text = "(*)的个人见闻沉思录"
+logo_text = "jdd个人见闻沉思录"
 author = "tzxl"
 default_language = "zh"
 use_full_hack_font = true
@@ -41,3 +41,6 @@ menu_items = [
 ]
 
 page_titles = "combined"
+
+favicon = "/favicon.png"
+favicon_mimetype = "image/png"
